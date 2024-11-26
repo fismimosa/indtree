@@ -3,6 +3,8 @@
 .DS_Store
 *.ckpt
 
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
