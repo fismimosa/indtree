@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import numpy as np
-from indtree.siren_models import SineLayer, SineConvLayer
+from indtree.siren_models import SineLayer
 
 DICT_MULTIOUTPUT_MODELS = {}
 
