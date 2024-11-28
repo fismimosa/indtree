@@ -1,6 +1,6 @@
 # indtree: Implicit Neural Decision Trees
 
-**indtree** is a Python library for implementing implicit neural decision trees.
+**indtree** is a Python library for implementing implicit neural decision trees. 
 
 ## Getting Started
 
@@ -16,3 +16,5 @@
    ```
 
 3. Check the notebooks folder for usage instructions and tutorials to get started.
+
+Some parts of the code are adapted from: https://github.com/GiuliaVolpi/GenTree
